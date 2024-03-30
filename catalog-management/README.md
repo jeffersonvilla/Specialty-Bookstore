@@ -1,0 +1,1 @@
+Microservice for catalog management for a Specialty Bookstore.
